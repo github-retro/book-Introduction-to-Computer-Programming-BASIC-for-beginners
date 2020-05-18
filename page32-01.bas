@@ -1,0 +1,4 @@
+10 A$="I AM STUPID"
+20 B$="ONLY FOOLS THINK"
+30 C$=B$+" "+A$
+40 END
