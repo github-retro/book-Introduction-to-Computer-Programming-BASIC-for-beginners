@@ -1,4 +1,9 @@
-5 CLS
+1 REM
+2 REM INTRODUCTION TO COMPUTER PROGRAMMING BASIC FOR BEGINNERS 
+3 REM BY USBORNE BOOKS
+4 REM https://usborne.com/browse-books/features/computer-and-coding-books/
+5 REM 
+8 CLS
 10 FOR X=1 TO 14
 20 LET Y=3*X+@
 30 PLOT(X,Y)

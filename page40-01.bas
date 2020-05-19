@@ -1,4 +1,9 @@
-5 DIM K$(5)
+1 REM
+2 REM INTRODUCTION TO COMPUTER PROGRAMMING BASIC FOR BEGINNERS 
+3 REM BY USBORNE BOOKS
+4 REM https://usborne.com/browse-books/features/computer-and-coding-books/
+5 REM 
+8 DIM K$(5)
 10 FOR I=1 TO 5
 20 READ K$(I)
 30 NEXT I,

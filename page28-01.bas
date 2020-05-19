@@ -1,4 +1,9 @@
-5 PRINT "I","J"
+1 REM
+2 REM INTRODUCTION TO COMPUTER PROGRAMMING BASIC FOR BEGINNERS 
+3 REM BY USBORNE BOOKS
+4 REM https://usborne.com/browse-books/features/computer-and-coding-books/
+5 REM 
+8 PRINT "I","J"
 10 FOR I=1 TO 3
 20 FOR J=1 TO 3
 30 PRINT I,J

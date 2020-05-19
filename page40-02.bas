@@ -1,3 +1,8 @@
+1 REM
+2 REM INTRODUCTION TO COMPUTER PROGRAMMING BASIC FOR BEGINNERS 
+3 REM BY USBORNE BOOKS
+4 REM https://usborne.com/browse-books/features/computer-and-coding-books/
+5 REM 
 200 LET A=0
 210 LET B=0
 220 LET A=A+1

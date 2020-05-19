@@ -1,4 +1,9 @@
-5 CLS
+1 REM
+2 REM INTRODUCTION TO COMPUTER PROGRAMMING BASIC FOR BEGINNERS 
+3 REM BY USBORNE BOOKS
+4 REM https://usborne.com/browse-books/features/computer-and-coding-books/
+5 REM 
+8 CLS
 10 LET M=0
 20 LET S=0
 30 FOR M=0 TO 59
